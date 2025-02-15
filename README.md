@@ -1,4 +1,3 @@
-PwC-forage-virtual-experience
 The tasks given under PwC PowerBI Virtual Experience Program in Forage.
 
 Task 1: Introduction on PowerBI
