@@ -64,7 +64,7 @@ I successfully completed a multi-level internship project structured as follows:
 
 Successfully completed the internship with practical exposure to real-world data analysis and problem-solving tasks in the domain of business and investment analytics.
 
-📄 [Internship Certificate] (Optional: Link or screenshot)
+📄 [Cognfyz appriciation latter.pdf]
 
 ---
 
