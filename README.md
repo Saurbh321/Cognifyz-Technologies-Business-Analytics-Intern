@@ -64,13 +64,13 @@ I successfully completed a multi-level internship project structured as follows:
 
 Successfully completed the internship with practical exposure to real-world data analysis and problem-solving tasks in the domain of business and investment analytics.
 
-📄 [Cognfyz appriciation latter.pdf]
+📄 [Cognfyz%20appriciation%20latter.pdf]
 
 ---
 
 ## 📫 Connect with Me
 
-- **LinkedIn**: [(https://www.linkedin.com/in/saurabh-sorte-0244281a3/)]
+- **LinkedIn**: [https://www.linkedin.com/in/saurabh-sorte-0244281a3/]
 - **GitHub**: [https://github.com/Saurbh321]
 - **Email**: [saurabhsorte43@gmail.com]
 
