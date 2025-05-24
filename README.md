@@ -26,6 +26,9 @@ I successfully completed a multi-level internship project structured as follows:
 - **Task 1**: Data overview – column types, basic structure
 - **Task 2**: Gender distribution visualization
 
+![image](https://github.com/user-attachments/assets/c51acac4-3652-4008-af13-cc8c46568f17)
+
+
 ### 🔹 Level 2 – Intermediate
 - **Task 3**: Descriptive statistics (mean, median, std. deviation)
 - **Task 4**: Most preferred investment avenues
