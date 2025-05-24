@@ -24,6 +24,12 @@ I successfully completed a multi-level internship project structured as follows:
 
 
 - **Task 1**: Data overview – column types, basic structure
+
+![image](https://github.com/user-attachments/assets/3d283fe0-d7c4-45ca-80fe-0dd84e976e95)
+
+  ![image](https://github.com/user-attachments/assets/73382df7-7a75-4aff-b091-a1fa356d7cea)
+
+
 - **Task 2**: Gender distribution visualization
 
 ![image](https://github.com/user-attachments/assets/dd8801e7-52d5-48a7-8de8-9192c0726e44)   ![image](https://github.com/user-attachments/assets/5045a463-9981-429e-b5fe-15ee9b2381cb)
@@ -46,12 +52,14 @@ I successfully completed a multi-level internship project structured as follows:
 
 
 - **Task 6**: Identifying savings objectives
+
 ![image](https://github.com/user-attachments/assets/82989625-472f-4874-b413-32490376a8f6)   ![image](https://github.com/user-attachments/assets/f65a96be-131f-48fb-aa54-16b67f410497)
 
 
 - **Task 7**: Common sources of investment information
 1) Explore Information Sources Column: Review the column where participants indicated their sources of investment information.
 2) Identify Common Sources: Analyze the data to identify and summarize the most common sources participants rely on.
+
 ![image](https://github.com/user-attachments/assets/5008987b-f2a6-421f-b887-3a69098cfdc4)   ![image](https://github.com/user-attachments/assets/2a8e2995-2d0f-4263-a464-e62ba1fecf4f)
 
 
@@ -61,13 +69,17 @@ I successfully completed a multi-level internship project structured as follows:
 
   2) Calculate Average Duration: Use appropriate statistical methods to calculate the average investment duration.
      
+
 ![image](https://github.com/user-attachments/assets/d1842f7b-5464-4e90-9b20-755daa1a888c)
 
 - **Task 9**: Summary of expectations from investments
+
 ![image](https://github.com/user-attachments/assets/df37e61c-4694-41c6-ad54-01bf5492da73)    ![image](https://github.com/user-attachments/assets/114ad9eb-0939-4a0e-bd49-709cafd8c9d6)
 
 
 - **Task 10**: Correlation analysis (age, income, investment duration)
+
+
 ![image](https://github.com/user-attachments/assets/95d70451-f667-4847-9d19-837d40bf8362) ![image](https://github.com/user-attachments/assets/38e647a2-22e5-4e83-b331-2beba5076d3b)
 
 ![image](https://github.com/user-attachments/assets/16404e34-f6a1-4afa-8f16-05aec981547b)
