@@ -1,6 +1,6 @@
 # 🎓 Business Analytics Internship – Cognifyz Technologies
 
-![Cognifyz Banner](https://www.cognifyz.com/images/logo-dark.png) <!-- (Optional: Use a hosted image or remove this line if not available) -->
+
 
 This repository showcases the work completed during my **Business Analytics Internship at Cognifyz Technologies**, where I explored real-world datasets, performed analytical tasks, and generated insights using tools like Excel, Power BI, and Python.
 
@@ -64,7 +64,7 @@ I successfully completed a multi-level internship project structured as follows:
 
 Successfully completed the internship with practical exposure to real-world data analysis and problem-solving tasks in the domain of business and investment analytics.
 
-📄 [Cognfyz%20appriciation%20latter.pdf]
+📄 [https://github.com/Saurbh321/Cognifyz-Technologies-Business-Analytics-Intern/blob/main/Cognfyz%20appriciation%20latter.pdf]
 
 ---
 
