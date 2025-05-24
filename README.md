@@ -90,9 +90,9 @@ I successfully completed a multi-level internship project structured as follows:
 ## 📊 Tools Used
 
 - **Excel** – Data cleaning, pivot analysis, visualization
-- **Power BI** – Interactive dashboards for gender, investment trends
+
 - **Python (Pandas, Matplotlib)** – Data exploration and visualization
-- **Markdown & GitHub** – Documentation and version control
+
 
 ---
 
