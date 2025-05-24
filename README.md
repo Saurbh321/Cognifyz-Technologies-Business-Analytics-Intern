@@ -36,10 +36,12 @@ I successfully completed a multi-level internship project structured as follows:
 - ![image](https://github.com/user-attachments/assets/4dbaf5a2-1476-4f89-a37f-8283e8b5f1cd)
 
 - **Task 4**: Most preferred investment avenues
+
 ![image](https://github.com/user-attachments/assets/8b19470e-6ac2-447c-8e99-1a606bff9d6a)    ![image](https://github.com/user-attachments/assets/332e9596-ada9-4cbb-a29b-1c162c3d6cd6)
 
 
 - **Task 5**: Analysis of reasons for investment
+
 ![image](https://github.com/user-attachments/assets/191d53e5-5591-4bb2-b50b-1e68fc064ad0)   ![image](https://github.com/user-attachments/assets/3e01a7a1-586c-460f-b894-a00b98e781bc)
 
 
