@@ -70,9 +70,9 @@ Successfully completed the internship with practical exposure to real-world data
 
 ## 📫 Connect with Me
 
-- **LinkedIn**: [Your Profile Link]
-- **GitHub**: [Your GitHub Profile]
-- **Email**: [yourname@email.com]
+- **LinkedIn**: [(https://www.linkedin.com/in/saurabh-sorte-0244281a3/)]
+- **GitHub**: [https://github.com/Saurbh321]
+- **Email**: [saurabhsorte43@gmail.com]
 
 ---
 
