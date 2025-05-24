@@ -26,7 +26,9 @@ I successfully completed a multi-level internship project structured as follows:
 - **Task 1**: Data overview – column types, basic structure
 - **Task 2**: Gender distribution visualization
 
-![image](https://github.com/user-attachments/assets/c51acac4-3652-4008-af13-cc8c46568f17)
+![image](https://github.com/user-attachments/assets/dd8801e7-52d5-48a7-8de8-9192c0726e44)   ![image](https://github.com/user-attachments/assets/5045a463-9981-429e-b5fe-15ee9b2381cb)
+
+
 
 
 ### 🔹 Level 2 – Intermediate
